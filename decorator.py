@@ -22,3 +22,13 @@ def say_hello():
 
 
 say_hello()
+
+
+
+
+def positive_validation(func):
+    def wrapper(args):
+        if args<0:
+            raise ValueError("Negative value is not allowed")
+        return func(args)
+    return wrapper
