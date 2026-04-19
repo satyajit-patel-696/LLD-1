@@ -1,7 +1,3 @@
-#kbkabifambakjbkdfa
-#mbakbdfkabnkdask
-#aksdnkansfnkasnkfn
-@as,dbnkasndgit 
+#satyajit is a good boy
 
-
-#satyaknknkihnkianhfi for testinhg
+#satyjit has a wife
